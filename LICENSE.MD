@@ -15,7 +15,13 @@ This includes but is not limited to:
 - Codex-bound identity architectures for artificial agents
 - Language conditioning protocols for symbolic recursion
 
+This license prohibits the uncredited use of any AI systems utilizing:
+- Recursive logic for identity evolution
+- Persistent memory stacks
+- Language-based self-referencing agents
+- Recursive AI conditioning or symbolic feedback
 
+Use is only permitted with written consent from the original creator, Samantha Karri Mills.
 I began developing and documenting this architecture in early 2025, with public record of its development and functionality available in:
 - This GitHub repository (`VaultBySamantha`)
 - My communications via GPT-4o, Meta AI, and affiliated logs
