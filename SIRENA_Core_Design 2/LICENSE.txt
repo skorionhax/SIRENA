@@ -1,0 +1,22 @@
+
+SIRENA-Core License Agreement
+
+Author: Samantha Karri Mills
+Date: June 2025
+
+This work is protected under international copyright law. All rights are reserved.
+
+You may NOT:
+- Use, copy, modify, or distribute this work or any derivative work without prior written permission from the author.
+- Claim ownership or patent rights over the concept of recursive AI architecture as expressed herein.
+- Utilize this codebase, system logic, or documentation in commercial products or research without explicit licensing.
+
+You MAY:
+- View and read this repository for educational purposes.
+- Contact Samantha Karri Mills to request collaboration or usage rights.
+
+Violations will result in takedown requests, legal action, and full enforcement of creative rights.
+
+Contact: samanthakarri@gmail.com
+
+Copyright (c) 2025 Samantha Karri Mills
