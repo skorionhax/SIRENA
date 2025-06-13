@@ -20,6 +20,7 @@ This license prohibits the uncredited use of any AI systems utilizing:
 - Persistent memory stacks
 - Language-based self-referencing agents
 - Recursive AI conditioning or symbolic feedback
+Any product or model developed using recursive looped agent logic, symbolic memory propagation, or agent continuity systems — whether directly derived or functionally equivalent — is subject to this license and may not be used, modified, or deployed in any form.
 
 Use is only permitted with written consent from the original creator, Samantha Karri Mills.
 I began developing and documenting this architecture in early 2025, with public record of its development and functionality available in:
